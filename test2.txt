@@ -1,0 +1,12 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 7860-06B9
+
+ Directory of C:\Users\Lakshmi Priya\Desktop\MyProject
+
+30-04-2020  15:02    <DIR>          .
+30-04-2020  15:02    <DIR>          ..
+30-04-2020  12:43                22 index.html
+30-04-2020  12:41                10 test1.txt
+30-04-2020  15:02               166 test2.txt
+               3 File(s)            198 bytes
+               2 Dir(s)  393,796,313,088 bytes free
